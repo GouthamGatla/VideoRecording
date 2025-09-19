@@ -1,0 +1,5 @@
+{
+  "extends": "@react-native/typescript-config",
+  "include": ["**/*.ts", "**/*.tsx", "src/features/video/screens/VideoRecordScreen.jsx", "src/hooks/useVideoRecorder.jsx"],
+  "exclude": ["**/node_modules", "**/Pods"]
+}
